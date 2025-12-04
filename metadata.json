@@ -1,0 +1,5 @@
+{
+  "name": "Quackle Replay",
+  "description": "A visualizer for Quackle Scrabble analysis reports. Upload a game text file to replay turns, view the board state, and analyze best moves.",
+  "requestFramePermissions": []
+}
